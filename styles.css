@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.f1{
+.container{
 	display:flex;
 	justify-content:space-evenly;
 	align-item:centre;
