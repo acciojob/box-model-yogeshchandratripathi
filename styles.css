@@ -18,14 +18,14 @@
 	border-radius:50%;
 	order:3;
 }
-.dot2{
+.green{
 	width:100px;
 	height:100px;
 	background:green;
 	border-radius:50%;
 	order:1;
 }
-.dot3{
+.yellow{
 	width:100px;
 	height:100px;
 	background:yellow;
