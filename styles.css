@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.f1{
+	display:flex;
+	justify-content:space-evenly;
+	align-item:centre;
+	width:100%;
+	height:200px;
+	border:3px solid black;
+	align-items:center;
+	padding:0px;
+	background:#d2d3d3;
+	border-radius:40px;
+}
+.dot1{
+	width:100px;
+	height:100px;
+	background:green;
+	border-radius:50%;
+}
+.dot2{
+	width:100px;
+	height:100px;
+	background:yellow;
+	border-radius:50%;
+}
+.dot3{
+	width:100px;
+	height:100px;
+	background:red;
+	border-radius:50%;
+}
